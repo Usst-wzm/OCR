@@ -1,0 +1,6 @@
+openai>=1.0.0
+alibabacloud-ocr-api20210707>=3.1.0
+pillow>=10.0.0
+pydantic>=2.0.0
+openpyxl>=3.1.0
+streamlit>=1.35.0
